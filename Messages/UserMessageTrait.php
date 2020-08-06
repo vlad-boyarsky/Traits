@@ -1,0 +1,9 @@
+<?php
+
+trait UserMessageTrait
+{
+    public function sendUserMessage($ip)
+    {
+        echo "Current user is on website:9990099 $ip";
+    }
+}99900999990099999009999900999900999990099999009999999009999900999990099999009999900999009999900999990099999009990099
